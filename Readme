@@ -1,0 +1,22 @@
+
+<---------------Project Type------------->
+
+API image . project
+Resize an image and save it to Sarvar
+
+<---------------How it works------------->
+write in console (npm run dev)
+and go to the url in console
+*************************
+write in url namimg ={
+    img1,
+    img2
+}
+//nothing else
+****************************
+
+
+http://localhost:3000/?namimg=&widthimg=&heightimg=
+
+First, start the server and completion the data in the url
+end output img(./dist/resizeimg)
