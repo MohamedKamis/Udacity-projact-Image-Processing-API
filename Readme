@@ -5,6 +5,9 @@ API image . project
 Resize an image and save it to Sarvar
 
 <---------------How it works------------->
+
+write in console (npm i )=> node_modules
+next
 write in console (npm run dev)
 and go to the url in console
 *************************
@@ -12,6 +15,7 @@ write in url namimg ={
     img1,
     img2
 }
+and add the ( width - height )
 //nothing else
 ****************************
 
